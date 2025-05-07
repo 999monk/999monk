@@ -1,5 +1,5 @@
 Hi, I’m @999monk. I’m interested in coding and philosophy.
-I’m currently learning C# and Python. 
+I’m currently learning C#.
 
      ---until death all defeat is psychological---
 
