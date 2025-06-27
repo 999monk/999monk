@@ -1,5 +1,5 @@
-i’m interested in coding and philosophy.
-currently learning C# and Python.
+i’m interested in coding, philosophy and cyber-culture.
+currently learning C# and shell/bash.
 
      ---until death all defeat is psychological---
 
