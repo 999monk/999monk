@@ -1,5 +1,5 @@
-i’m interested in coding, philosophy and cyber-culture.
-currently learning C# and shell/bash.
+i’m interested in coding, philosophy and cyber-culture. C# enjoyer. 
+currently learning powershell/bash.
 
      ---until death all defeat is psychological---
 
