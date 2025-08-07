@@ -1,5 +1,5 @@
-i’m interested in coding, philosophy and cyber-culture. C# enjoyer. 
-currently learning powershell/bash.
+
+generalista. me interesa la programación, la escritura, la filosofía y la ciber-cultura. entusiasta de C#. aprendiendo un poco de todo.
 
      ---until death all defeat is psychological---
 
