@@ -1,7 +1,7 @@
 
 infonauta generalista. 
 me interesa la programación, la escritura, la filosofía y la ciber-cultura.
-entusiasta de C#. aprendiendo un poco de todo.
+entusiasta de C# y powershell. aprendiendo un poco de todo.
 
      ---until death all defeat is psychological---
 
