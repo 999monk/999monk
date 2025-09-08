@@ -1,5 +1,5 @@
 
-infonauta interesado en programación, filosofía y ciber-cultura.
+infonauta interesado en código, filosofía y ciber-cultura.
 entusiasta de C# y Rust. aprendiendo un poco de todo.
 
      ---until death all defeat is psychological---
