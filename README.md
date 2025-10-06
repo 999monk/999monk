@@ -1,6 +1,6 @@
 
 infonauta interesado en código, filosofía y ciber-cultura.
-entusiasta de C# y Rust. aprendiendo un poco de todo.
+entusiasta de C# y PowerShell. aprendiendo un poco de todo.
 
      ---until death all defeat is psychological---
 
