@@ -1,7 +1,5 @@
 
-I am a generalist interested in code, security, philosophy, and cyberculture.
-I enjoy reading and writing.
-C#, Rust and bash enthusiast.
+Generalist. Code, security, philosophy, and cyberculture. Open-source maxxing. C#, Rust, and Bash enthusiast.
 
 <!---
 999monk/999monk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
