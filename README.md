@@ -1,7 +1,7 @@
 
 Generalist. Code, security, philosophy, and cyberculture. C#, Rust, and Bash enthusiast.
 
-Currently studying and building tools for personal use.
+Currently learning and building tools for personal use.
 
 <!---
 999monk/999monk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
