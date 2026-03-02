@@ -1,12 +1,6 @@
 
 Generalist. Interested in the intersection of code, security, philosophy, and cyberculture.
 
-- linux enjoyer
-- trained in philosophy, self-taught in cs
-- writing
-- code (bash, C#, rust, python) enthusiast
-- cyber-sec in progess (soc, grc)
-
  -> Currently learning and building tools for personal use.
 
 <!---
