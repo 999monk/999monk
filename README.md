@@ -1,11 +1,13 @@
 
-Generalist. 
+Generalist. Interested in the intersection of code, security, philosophy, and cyberculture.
 
-Code, security, philosophy, and cyberculture intersection. 
+- linux enjoyer
+- trained in philosophy, self-taught in cs
+- writing
+- code (bash, C#, rust, python) enthusiast
+- cyber-sec in progess (soc, grc)
 
-C#, Rust, and Bash enthusiast.
-
-Currently learning and building tools for personal use.
+ -> Currently learning and building tools for personal use.
 
 <!---
 999monk/999monk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
