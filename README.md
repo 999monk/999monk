@@ -1,5 +1,9 @@
 
-Generalist. Code, security, philosophy, and cyberculture. C#, Rust, and Bash enthusiast.
+Generalist. 
+
+Code, security, philosophy, and cyberculture intersection. 
+
+C#, Rust, and Bash enthusiast.
 
 Currently learning and building tools for personal use.
 
