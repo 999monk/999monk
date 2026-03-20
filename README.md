@@ -1,9 +1,12 @@
 
 Generalist. Learning computer science topics in the AI ​​paradigm.
 
-/cyberculure
+/cyberculture
+
 /info security
+
 /code
+
 /linux
 
 <!---
