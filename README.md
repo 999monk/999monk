@@ -1,7 +1,9 @@
 
-Generalist. Interested in the intersection of code, security, philosophy, and cyberculture.
-
- -> Currently learning and building tools for personal use.
+Generalist. Learning computer science topics in the AI ​​paradigm.
+/cyberculure
+/info security
+/code
+/linux
 
 <!---
 999monk/999monk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
