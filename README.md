@@ -1,13 +1,7 @@
 
 Generalist. Learning computer science topics in the AI ​​paradigm.
 
-/cyberculture
-
-/info security
-
-/code
-
-/linux
+cyberculture, info security, code, linux
 
 <!---
 999monk/999monk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
