@@ -1,5 +1,5 @@
 
-Generalist. Incompletely trained in philosophy. Attempting to learn computer science topics in the AI ​​paradigm.
+learning computer science topics.
 
 > cyberculture, info security, code, self-hosting, linux, writing
 
