@@ -1,5 +1,5 @@
 
-Average Linux user. I enjoy customizing digital environments to my liking. Learning about defensive cybersecurity and networks.
+Average Linux user. Customizing digital environments and learning about defensive cybersecurity and networks.
  
 <!---
 999monk/999monk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
